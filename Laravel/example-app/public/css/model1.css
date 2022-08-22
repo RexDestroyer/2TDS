@@ -1,0 +1,122 @@
+/*Estilização das imagens, partindo do padrão de tamanho 
+width: 25vh; height: 40vh; */
+.nav-link { 
+   
+    margin-left: 0vh;
+}
+
+
+ .nav {
+    
+    text-align: center;
+    font-size: 1.6vh;
+    margin-top: 7vh; 
+ } 
+ 
+ 
+ 
+ .content1 {
+
+   margin-top: 4.1vw;
+   width: 100%;
+   padding: 10vw, 10vw, 10vw, 10vw;
+   
+ }
+ 
+ 
+ .row {
+    
+    height: max-content;
+ 
+ 
+ }
+ 
+ 
+ .col-sm-8 { 
+    
+    text-align: center;
+  background-color:#292929;
+ }
+ 
+.container {
+
+    margin-top: 10vh;
+   
+    
+}
+
+.h1{
+   
+    text-align: center;
+
+}
+
+.col-md-3 {
+
+    font-size: 1.45vh;
+    font-weight: bold;
+
+}
+
+p{
+    color: aliceblue;
+}
+
+.c1, .c4 {
+
+    margin-top: 1vh;
+    width: 30vh;
+    height: 38vh;
+    margin-bottom: 1.5vh;
+
+}
+
+.c2 {
+    margin-top: 1vh;
+    width: 27vh;
+    height: 38.5vh;
+    margin-bottom: 1.5vh;
+
+}
+
+.c3 {
+
+    margin-top: 1vh;
+    width: 24vh;
+    height: 38.5vh;
+    margin-bottom: 1.5vh;
+
+
+}
+
+b {
+    color: green;
+    font-size: 3vh;
+
+}
+
+.bd1, .bd2, .bd3, .bd4 {
+    width: 30vh;
+    height: 50vh;
+    margin-bottom: 20vh;
+    background-color: #292929;
+    border-radius: 2rem;
+    box-shadow:  3px 3px 0px #403f3f;
+   
+}
+
+.bd1:hover, .bd2:hover, .bd3:hover, .bd4:hover {
+    opacity: 90%;
+    border: solid 1.5px lightslategray;
+    box-shadow:  3px 3px 0px lightslategray;
+
+}
+
+main{
+    background: url("../img/gamer.jpg") no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+}
+
+

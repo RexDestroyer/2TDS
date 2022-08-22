@@ -1,0 +1,64 @@
+body{
+margin: 0;
+padding: 0;
+background-color: black;
+}
+
+.fundo {
+
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 1vh;
+    padding-bottom: 0.1%;
+    background-image: url(https://cdn.awsli.com.br/600x700/695/695586/produto/136956633/b7f9790a7b.jpg) ;
+
+}
+.titulo {
+    text-align: center;
+    font-size: 5vh;
+    color: aliceblue;
+    margin-top: 2vw;
+    margin-bottom: 2%;
+        
+}
+p{
+    color: aliceblue;
+    font-size: 110%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto1{
+    margin-left: 15vw;
+    margin-right: 20vw;
+    padding-top: 3vw;
+    
+}
+
+
+
+.img1{
+    height: 40vh;
+    width: 40vh;
+    float: right;
+    margin-right: 20vh; 
+    margin-left: 6vh ;
+    margin-bottom: 10vw;
+    margin-top: 0.1vw;
+
+}
+
+
+.empresa{
+margin-top: 5vw;
+
+
+}
+.empresa2{
+margin-top: 10vw;
+margin-bottom: 10vw;
+
+}
+.nulo{
+    height: 5%;
+}

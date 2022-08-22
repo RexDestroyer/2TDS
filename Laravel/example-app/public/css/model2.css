@@ -1,0 +1,138 @@
+.nav-link { 
+   
+    margin-left: 0vh;
+}
+
+
+ .nav {
+    
+    text-align: center;
+    font-size: 1.6vh;
+    margin-top: 7vh; 
+ } 
+ 
+ 
+ 
+ .content1 {
+
+   margin-top: 8.3vw;
+   width: 100%;
+   padding: 10vw, 10vw, 10vw, 10vw;
+ }
+ 
+ 
+ .row {
+
+    height: max-content;
+ 
+ 
+ }
+ 
+ 
+ .col-sm-8 { 
+    
+    text-align: center;
+ 
+ }
+ 
+.container {
+
+    margin-top: 8vh;
+    
+    
+}
+
+.h1{
+    text-align: center;
+
+}
+
+.col-md-3 {
+
+    font-size: 1.45vh;
+    font-weight: bold;
+
+}
+
+p{
+    color: aliceblue;
+}
+
+
+.p1 {
+
+margin-top: 2vh;
+width: 36vh;
+height: 39vh;
+margin-bottom: 2vh;
+
+}
+
+.p2 {
+
+    margin-top: 12vh;
+    width: 35.3vh;
+    height: 15.5vh;
+    margin-bottom: 15vh;
+
+}
+
+
+.p3 {
+
+margin-top: 2vh;
+width: 33vh;
+height: 35vh;
+margin-bottom: 6vh;
+
+}
+
+.p4 {
+
+    margin-top: 2vh;
+    width: 17vh;
+    height: 37vh;
+    margin-bottom: 4vh;
+
+}
+
+
+
+
+b {
+
+color: green;
+font-size: 3vh;
+
+}
+
+.bd1, .bd2, .bd3, .bd4 {
+
+    width: 36vh;
+    height: 50vh;
+    margin-bottom: 20vh;
+    background-color: #292929;
+    border-radius: 2rem;
+    box-shadow:  3px 3px 0px #403f3f;
+    
+
+}
+
+.bd1:hover, .bd2:hover, .bd3:hover, .bd4:hover {
+
+opacity: 90%;
+border: solid 1.5px lightslategray;
+box-shadow:  3px 3px 0px lightslategray;
+
+}
+
+main{
+    background: url("../img/gamer.jpg") no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+}
+
+
+
+
